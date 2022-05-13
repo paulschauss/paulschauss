@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-- 🔭 I’m currently working on [#](#)
+- 🔭 I'm currently working on a RoR project for 4Lab, a French organization that works on education with the French government.
 
 - 🌱 I’m currently learning **Ruby-on-Rails**
 
-- 👯 I’m looking to collaborate on [#](#)
+- 👯 I’m looking to collaborate on every interesting project. My main interests are sports, vacation rentals, automation of daily tasks and real estate.
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at (coming soon).
 
 - 📫 How to reach me **p@schauss.fr**
 
