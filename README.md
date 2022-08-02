@@ -11,10 +11,6 @@
 
 - 📫 How to reach me **p@schauss.fr**
 
-- 📄 Know about my experiences [https://paulschauss.notion.site/Paul-Schauss-Web-Development-12f3fa05b76f47c2939b627d5b19c85b](https://paulschauss.notion.site/Paul-Schauss-Web-Development-12f3fa05b76f47c2939b627d5b19c85b)
-
-- ⚡ Fun fact **I think i am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paulschauss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulschauss" height="30" width="40" /></a>
