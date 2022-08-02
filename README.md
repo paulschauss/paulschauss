@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on every interesting project. My main interests are sports, vacation rentals, automation of daily tasks and real estate.
 
-- 👨‍💻 All of my projects are available at (coming soon).
+- 👨‍💻 All of my projects are available <a href="https://paulschauss.notion.site/Paul-Schauss-12f3fa05b76f47c2939b627d5b19c85b" target="blank">here</a>.
 
 - 📫 How to reach me **p@schauss.fr**
 
